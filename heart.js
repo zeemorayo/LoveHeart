@@ -15,3 +15,4 @@ var time = 0.0;
 // Shader SOURCE
 
 var vertexSource = `
+attribute vec2 position;
