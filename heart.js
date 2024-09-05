@@ -16,4 +16,4 @@ var time = 0.0;
 
 var vertexSource = `
 attribute vec2 position;
-void
+void main() 
